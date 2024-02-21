@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 85,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 70,
+    "timeDay": 72,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://trials.jrmo.qmul.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/trials.jrmo.qmul.ac.uk.ico",
     "slug": "bcc-trials-domain",
-    "status": "up",
-    "uptime": "0.03%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 1048,
-    "timeDay": 1048,
-    "timeWeek": 1048,
-    "timeMonth": 1048,
-    "timeYear": 1048,
+    "status": "down",
+    "uptime": "8.68%",
+    "uptimeDay": "13.78%",
+    "uptimeWeek": "8.68%",
+    "uptimeMonth": "8.68%",
+    "uptimeYear": "8.68%",
+    "time": 1043,
+    "timeDay": 1043,
+    "timeWeek": 1043,
+    "timeMonth": 1043,
+    "timeYear": 1043,
     "dailyMinutesDown": {
+      "2024-02-21": 0,
       "2024-02-20": 1272,
       "2024-02-19": 821
     }
@@ -55,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-20": 1272,
+      "2024-02-21": 30,
+      "2024-02-20": 1440,
       "2024-02-19": 821
     }
   }
