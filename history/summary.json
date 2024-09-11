@@ -24,7 +24,7 @@
     "url": "https://trials.jrmo.qmul.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/trials.jrmo.qmul.ac.uk.ico",
     "slug": "bcc-trials-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1236,
     "timeYear": 1322,
     "dailyMinutesDown": {
+      "2024-09-11": 0,
       "2024-07-19": 114,
       "2024-02-21": 1392,
       "2024-02-20": 1272,
@@ -59,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 69,
+      "2024-09-11": 1351,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
