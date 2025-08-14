@@ -25,18 +25,20 @@
     "url": "https://trials.jrmo.qmul.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/trials.jrmo.qmul.ac.uk.ico",
     "slug": "bcc-trials-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1299,
+    "time": 1298,
     "timeDay": 819,
-    "timeWeek": 1193,
-    "timeMonth": 1235,
-    "timeYear": 1318,
-    "dailyMinutesDown": {}
+    "timeWeek": 1147,
+    "timeMonth": 1222,
+    "timeYear": 1317,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   },
   {
     "name": "BCC Pilots domain",
@@ -55,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 87,
+      "2025-08-14": 1308,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
