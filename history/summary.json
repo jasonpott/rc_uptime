@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 87,
-    "timeWeek": 89,
-    "timeMonth": 97,
+    "timeDay": 85,
+    "timeWeek": 90,
+    "timeMonth": 96,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2025-04-29": 17,
@@ -25,19 +25,19 @@
     "url": "https://trials.jrmo.qmul.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/trials.jrmo.qmul.ac.uk.ico",
     "slug": "bcc-trials-domain",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 819,
-    "timeWeek": 1147,
-    "timeMonth": 1222,
-    "timeYear": 1317,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.98%",
+    "time": 1317,
+    "timeDay": 4187,
+    "timeWeek": 2187,
+    "timeMonth": 1496,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 105
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 1308,
+      "2025-08-14": 1414,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
