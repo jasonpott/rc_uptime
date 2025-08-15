@@ -1,7 +1,7 @@
 url: https://trials.jrmo.qmul.ac.uk/
-status: down
-code: 500
-responseTime: 10713
-lastUpdated: 2025-08-14T23:44:06.005Z
+status: up
+code: 200
+responseTime: 1093
+lastUpdated: 2025-08-15T16:25:23.564Z
 startTime: 2024-02-19T10:18:41.636Z
 generator: Upptime <https://github.com/upptime/upptime>
